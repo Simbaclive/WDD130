@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wireframe Example</title>
+</head>
+
+<body>
+
+    <header>
+        <img src="images/logo.png" alt="Rafting Site Logo">
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Trips</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Welcome to Our Rafting Adventures!</h1>
+            <p>Exciting trips, beautiful scenery, and unforgettable memories.</p>
+        </section>
+
+        <section>
+            <h2>Featured Trips</h2>
+            <article>
+                <h3>Beginner's River Run</h3>
+                <p>A great introduction to rafting for families and new adventurers.</p>
+            </article>
+            <article>
+                <h3>Advanced Rapids Challenge</h3>
+                <p>Thrill-seekers welcome. Navigate through Class IV rapids!</p>
+            </article>
+        </section>
+
+        <section>
+            <h2>Testimonials</h2>
+            <blockquote>"An amazing experience — we'll be back!" - Happy Customer</blockquote>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Whitewater Rafting Co.</p>
+        <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+    </footer>
+
+</body>
+
+</html>
